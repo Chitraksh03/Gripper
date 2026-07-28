@@ -3,3 +3,9 @@ service:
   identifier: test9
   orgIdentifier: default
   projectIdentifier: testf
+  serviceDefinition:
+    spec:
+      customDeploymentRef:
+        templateRef: myTemplate
+        versionLabel: v0
+    type: CustomDeployment
