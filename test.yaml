@@ -1,5 +1,5 @@
 service:
-  name: test_bi
+  name: test_bi_sync
   identifier: test_bi
   orgIdentifier: default
   projectIdentifier: testf
