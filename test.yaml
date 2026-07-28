@@ -1,6 +1,6 @@
 service:
-  name: test1
-  identifier: test1
+  name: test_bi
+  identifier: test_bi
   orgIdentifier: default
   projectIdentifier: testf
   serviceDefinition:
