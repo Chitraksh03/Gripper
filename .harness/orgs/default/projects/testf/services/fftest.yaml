@@ -1,0 +1,5 @@
+service:
+  name: fftest
+  identifier: fftest
+  orgIdentifier: default
+  projectIdentifier: testf
