@@ -1,6 +1,6 @@
 service:
-  name: teston
-  identifier: teston
+  name: teston1
+  identifier: teston1
   orgIdentifier: default
   projectIdentifier: testf
   serviceDefinition:
