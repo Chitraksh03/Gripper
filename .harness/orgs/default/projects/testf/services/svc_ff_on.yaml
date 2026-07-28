@@ -3,3 +3,9 @@ service:
   identifier: svc_ff_on
   orgIdentifier: default
   projectIdentifier: testf
+  serviceDefinition:
+    spec:
+      customDeploymentRef:
+        templateRef: myTemplate
+        versionLabel: v0
+    type: CustomDeployment
