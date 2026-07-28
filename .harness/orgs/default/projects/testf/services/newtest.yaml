@@ -1,0 +1,5 @@
+service:
+  name: newtest
+  identifier: newtest
+  orgIdentifier: default
+  projectIdentifier: testf
