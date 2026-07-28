@@ -1,6 +1,6 @@
 service:
-  name: svc_ff_on
-  identifier: svc_ff_on
+  name: svc_ff_off
+  identifier: svc_ff_off
   orgIdentifier: default
   projectIdentifier: testf
   serviceDefinition:
