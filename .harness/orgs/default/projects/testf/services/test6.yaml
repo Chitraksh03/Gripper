@@ -6,6 +6,6 @@ service:
   serviceDefinition:
     spec:
       customDeploymentRef:
-        templateRef: myTemplate
+        templateRef: temp
         versionLabel: v0
     type: CustomDeployment
