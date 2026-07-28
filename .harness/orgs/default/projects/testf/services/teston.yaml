@@ -1,0 +1,5 @@
+service:
+  name: teston
+  identifier: teston
+  orgIdentifier: default
+  projectIdentifier: testf
