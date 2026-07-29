@@ -7,5 +7,5 @@ service:
     spec:
       customDeploymentRef:
         templateRef: temp
-        versionLabel: v0
+        versionLabel: v1
     type: CustomDeployment
