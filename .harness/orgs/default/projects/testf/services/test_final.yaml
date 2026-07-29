@@ -1,0 +1,5 @@
+service:
+  name: test_final
+  identifier: test_final
+  orgIdentifier: default
+  projectIdentifier: testf
