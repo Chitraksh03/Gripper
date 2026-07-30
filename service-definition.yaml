@@ -1,0 +1,10 @@
+launchType: FARGATE
+  desiredCount: 1
+  networkConfiguration:
+    awsvpcConfiguration:
+      subnets:
+        - <+input>
+      securityGroups:
+        - <+input>
+      assignPublicIp: ENABLED
+  
