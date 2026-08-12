@@ -3,3 +3,6 @@ service:
   identifier: CDS129653
   orgIdentifier: default
   projectIdentifier: ChitrakshCDTest
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
