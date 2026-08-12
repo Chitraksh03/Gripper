@@ -1,0 +1,8 @@
+service:
+  name: CDS-129653_test1
+  identifier: CDS_129653_test1
+  tags: {}
+  serviceDefinition:
+    type: Kubernetes
+    spec:
+      artifacts: {}
