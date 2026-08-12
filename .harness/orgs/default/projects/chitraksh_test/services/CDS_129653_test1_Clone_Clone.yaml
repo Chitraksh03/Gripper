@@ -1,0 +1,9 @@
+---
+service:
+  tags: {}
+  serviceDefinition:
+    type: "Kubernetes"
+    spec:
+      artifacts: {}
+  identifier: "CDS_129653_test1_Clone_Clone"
+  name: "CDS-129653_test1 - Clone - Clone"
