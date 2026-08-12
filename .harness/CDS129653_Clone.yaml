@@ -1,0 +1,10 @@
+---
+service:
+  orgIdentifier: "default"
+  projectIdentifier: "ChitrakshCDTest"
+  serviceDefinition:
+    spec: {}
+    type: "Kubernetes"
+  identifier: "CDS129653_Clone"
+  tags: {}
+  name: "CDS-129653 - Clone"
